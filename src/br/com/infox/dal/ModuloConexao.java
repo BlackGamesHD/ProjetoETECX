@@ -19,9 +19,9 @@ public class ModuloConexao {
         // A linha abaixo chama o driver que foi importado para o projeto java
         String driver = "com.mysql.cj.jdbc.Driver";
         // Informações referentes ao banco de dados
-        String url = "jdbc:mysql://35.247.225.119:3306/dbinfox?useTimezone=true&serverTimezone=UTC";
+        String url = "jdbc:mysql://localhost/dbinfox?useTimezone=true&serverTimezone=UTC";
         String user = "root";
-        String password = "EtecRGS282";
+        String password = "";
         // Estabelecendo a conexão
         try {
             Class.forName(driver);
