@@ -8,3 +8,5 @@ Para entrar no software é necessário que exista uma conexão com o banco de da
 
 Login: admin
 Senha: admin
+
+Se quiser apenas o executável é só entrar na past dist, lá vai ter o arquivo .jar
