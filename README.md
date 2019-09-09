@@ -8,3 +8,5 @@ A branch 'master' está ligada com um servidor hospedado pelo Google, mas eu des
 Para entrar no software é necessário que exista uma conexão com o banco de dados, um usuário padrão é criado no script.
 
 Login: admin Senha: admin
+
+Se quiser apenas o executável é só entrar na past dist, lá vai ter o arquivo .jar
